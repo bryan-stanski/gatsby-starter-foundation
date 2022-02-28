@@ -4,7 +4,7 @@ title: Please Save Their Eyes with Light & Dark Mode
 slug: light-and-dark-mode
 date: 2022-02-27 23:25
 description: light and dark mode post
-featuredImage: /assets/walling-jv_r_dnziwu-unsplash.jpg
+featuredImage: /assets/walling-ovlxburo9wo-unsplash.jpg
 ---
 When a website, one goal is to make sure your site is viewable on all devices, but since that is nearly impossible to do, you may want to start with something a little more reasonable¬—creating a light and dark mode version of your website. By making both a light and a dark mode version of your website you are able to have a website that most people will find appealing. This is because those who like viewing darker webpages or don’t like using light mode at night (and vice-versa) can view your website peacefully at any point in time. This can be achieved very easily using the media query prefers-color-scheme. With the prefers-color-scheme media query, you can create a color scheme for light consisting of a light background (usually white) and dark text color (usually black) or for dark a dark background (usually black) and light text color (usually white). You can ever create other color schemes for example a red color scheme if you really wanted to (but I would not recommend making this for light or dark mode. Instead as an option on the page to switch to which is a whole other topic to cover in how to do this). Here is an example of how you could create a light & dark mode using the media query:
 
